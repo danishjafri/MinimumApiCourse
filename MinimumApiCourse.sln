@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumApi", "MinimumApi\MinimumApi.csproj", "{EA1DE1BA-06AB-4572-8184-3C2E52582B9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{A515BC19-4E1A-495B-85D9-613F54D33824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EA1DE1BA-06AB-4572-8184-3C2E52582B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1DE1BA-06AB-4572-8184-3C2E52582B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1DE1BA-06AB-4572-8184-3C2E52582B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A515BC19-4E1A-495B-85D9-613F54D33824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A515BC19-4E1A-495B-85D9-613F54D33824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A515BC19-4E1A-495B-85D9-613F54D33824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A515BC19-4E1A-495B-85D9-613F54D33824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
