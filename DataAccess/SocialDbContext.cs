@@ -6,6 +6,6 @@ namespace DataAccess
     public class SocialDbContext : DbContext
     {
         public SocialDbContext(DbContextOptions options) : base(options) { }
-        public DbSet<Post> Post { get; set; }
+        public DbSet<Post> Posts { get; set; }
     }
 }
